@@ -1,5 +1,5 @@
-![Logo]("assets/images/logo.jpg")
-# copypale
+![Logo]("assets/images/logo.png")
+# Copypale
 A new way of communicate and synchronize data between all your devices and with your friends!
 
 ## What is the aim of this project
