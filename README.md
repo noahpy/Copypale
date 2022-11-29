@@ -1,4 +1,4 @@
-![Logo]("./assets/images/logo.png")
+![Logo](/assets/images/logo.png)
 # Copypale
 A new way of communicate and synchronize data between all your devices and with your friends!
 
