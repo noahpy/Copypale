@@ -1,8 +1,8 @@
 ![Logo](/assets/images/logo.png)
 # Copypale
-A new way of communicate and synchronize data between all your devices and with your friends!
+A new way of synchronizing data between anyone with any devices!
 
-## What is the aim of this project
+## My mission
 Synchronizing or sharing any kinds of data between diffrent devices can 
 be time-consuming and stressful. I want to change this experince by enableing 
 an instant, effortless synchronization between any kinds of devices, owned by any kinds of people, with any kinds of data.
@@ -17,6 +17,6 @@ an instant, effortless synchronization between any kinds of devices, owned by an
   * QR-Code or code for instant subscription of a share
 
 ### Nonfunctional Goals
-- Effortless, intuitive Interface (less than 4 clicks for everything!)
+- Effortless, intuitive Interface (less than 4 clicks for every action!)
 - Security, Integrity
 
