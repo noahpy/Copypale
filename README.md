@@ -16,8 +16,26 @@ an instant, effortless synchronization between any kinds of devices, owned by an
 - Synchronization between a group of users
   * Forming sharing groups 
   * QR-Code or code for instant subscription of a share
+  * Web App for quick sharing in large groups
 
 ### Nonfunctional Goals
 - Effortless, intuitive Interface (less than 4 clicks for every action!)
 - Security, Integrity
+
+## Technical Impact / Advantages
+Why would one have benefits using this program?
+Here are some points!
+  
+User perspective:
+- Drasitc Simplification (every possible Synchronization with one method)
+- Increased Flexibility / Productivity in groups
+- Building up your own ecosystem with different devices
+- It's free!
+  
+Technical perspective:
+- Low storage usage
+  * Avoid storing temporary data
+  * Delegate storing of the information to the user
+- Scalable
+
 
