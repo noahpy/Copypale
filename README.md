@@ -1,6 +1,7 @@
 ![Logo](/assets/images/logo.png)
 # Copypale
 A new way of synchronizing data between anyone with any devices!
+See my progress [here](https://github.com/users/noahpy/projects/1).
 
 ## My mission
 Synchronizing or sharing any kinds of data between diffrent devices can 
